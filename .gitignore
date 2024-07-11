@@ -1,7 +1,13 @@
 /.metadata/
 /Servers/
 **/target/
+.apt_generated
 .classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 **/.classpath
 .DS_Store
 /RemoteSystemsTempFiles
